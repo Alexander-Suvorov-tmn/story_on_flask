@@ -1,2 +1,2 @@
-# story_on_flask
-простой интеренет магазин
+# flask_story
+простой магазин на flask
